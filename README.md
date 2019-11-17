@@ -12,6 +12,7 @@ Integrantes:
 - Franco Fresno (https://github.com/francofresno)
 
 #### Descripción e instrucciones
+Juego hecho como tp integrador para la materia Paradigmas de Programación de UTN.
 
 - El juego:
   Consiste en tres escenarios diferentes donde se enfrentarán dos tropas de 11 unidades (10 subordinados y su comandante).
