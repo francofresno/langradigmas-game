@@ -3,7 +3,7 @@ import utilidades.visuals.*
 import utilidades.teclado.*
 import cursor.*
 
-import jugadores.* // import just for testing
+//import jugadores.*
 
 /*
 	Setea la configuración inicial. 
@@ -25,7 +25,7 @@ object inicio {
 		
 		teclado.setearTeclaInicio()
 		
-		keyboard.num(9).onPressDo { jugador1.getUnidades().head().recibirDanio(10) }
+//		keyboard.num(9).onPressDo { jugador1.getUnidades().head().recibirDanio(10) }
 	}
 	method mostrarInicio() = game.addVisual(inicio)
 	method getInicioVisual() = inicio
