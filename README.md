@@ -6,10 +6,10 @@
 
 Integrantes:
 
-- Camila Albite
-- Matias Pastori
-- Nahuel Varisco
-- Franco Fresno
+- Camila Albite (https://github.com/CamilaAlbite)
+- Matias Pastori (https://github.com/MatiasPastori)
+- Nahuel Varisco (https://github.com/resLotus)
+- Franco Fresno (https://github.com/francofresno)
 
 #### Descripción e instrucciones
 
